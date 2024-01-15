@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "672834848332",
+    "project_id": "tetris-game-32528",
+    "storage_bucket": "tetris-game-32528.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672834848332:android:3115c9d33caa910f4696e9",
+        "android_client_info": {
+          "package_name": "com.jetgame.tetris"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVQbD1GUnYQ_FAkInVqz1Ov6pZBCc9QlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672834848332:android:787a3bfec4ea9ecc4696e9",
+        "android_client_info": {
+          "package_name": "com.tvdztech.tetris"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVQbD1GUnYQ_FAkInVqz1Ov6pZBCc9QlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
